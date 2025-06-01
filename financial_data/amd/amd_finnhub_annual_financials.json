@@ -1,0 +1,2276 @@
+{
+    "cik": "2488",
+    "data": [
+        {
+            "accessNumber": "0000002488-25-000012",
+            "symbol": "AMD",
+            "cik": "2488",
+            "year": 2024,
+            "quarter": 0,
+            "form": "10-K",
+            "startDate": "2023-12-31 00:00:00",
+            "endDate": "2024-12-28 00:00:00",
+            "filedDate": "2025-02-05 00:00:00",
+            "acceptedDate": "2025-02-05 16:42:57",
+            "report": {
+                "bs": [
+                    {
+                        "concept": "us-gaap_CashAndCashEquivalentsAtCarryingValue",
+                        "unit": "usd",
+                        "label": "Cash and cash equivalents",
+                        "value": 3787000000.0
+                    },
+                    {
+                        "concept": "us-gaap_ShortTermInvestments",
+                        "unit": "usd",
+                        "label": "Short-term investments",
+                        "value": 1345000000
+                    },
+                    {
+                        "concept": "us-gaap_AccountsReceivableNetCurrent",
+                        "unit": "usd",
+                        "label": "Accounts receivable, net",
+                        "value": 6192000000
+                    },
+                    {
+                        "concept": "us-gaap_InventoryNet",
+                        "unit": "usd",
+                        "label": "Inventories",
+                        "value": 5734000000.0
+                    },
+                    {
+                        "concept": "us-gaap_OtherReceivables",
+                        "unit": "usd",
+                        "label": "Other Receivables",
+                        "value": 113000000
+                    },
+                    {
+                        "concept": "us-gaap_PrepaidExpenseAndOtherAssetsCurrent",
+                        "unit": "usd",
+                        "label": "Prepaid expenses and other current assets",
+                        "value": 1878000000.0
+                    },
+                    {
+                        "concept": "us-gaap_AssetsCurrent",
+                        "unit": "usd",
+                        "label": "Total current assets",
+                        "value": 19049000000
+                    },
+                    {
+                        "concept": "us-gaap_PropertyPlantAndEquipmentNet",
+                        "unit": "usd",
+                        "label": "Property and equipment, net",
+                        "value": 1802000000.0
+                    },
+                    {
+                        "concept": "us-gaap_OperatingLeaseRightOfUseAsset",
+                        "unit": "usd",
+                        "label": "Operating lease right-of-use assets",
+                        "value": 623000000
+                    },
+                    {
+                        "concept": "us-gaap_Goodwill",
+                        "unit": "usd",
+                        "label": "Goodwill",
+                        "value": 24839000000.0
+                    },
+                    {
+                        "concept": "us-gaap_IntangibleAssetsNetExcludingGoodwill",
+                        "unit": "usd",
+                        "label": "Acquisition-related intangibles",
+                        "value": 18930000000.0
+                    },
+                    {
+                        "concept": "us-gaap_EquityMethodInvestments",
+                        "unit": "usd",
+                        "label": "Investment: equity method",
+                        "value": 149000000
+                    },
+                    {
+                        "concept": "us-gaap_DeferredIncomeTaxAssetsNet",
+                        "unit": "usd",
+                        "label": "Deferred tax assets, net",
+                        "value": 688000000
+                    },
+                    {
+                        "concept": "us-gaap_OtherAssetsNoncurrent",
+                        "unit": "usd",
+                        "label": "Other non-current assets",
+                        "value": 3146000000
+                    },
+                    {
+                        "concept": "us-gaap_Assets",
+                        "unit": "usd",
+                        "label": "Total assets",
+                        "value": 69226000000
+                    },
+                    {
+                        "concept": "us-gaap_AccountsPayableCurrent",
+                        "unit": "usd",
+                        "label": "Accounts payable",
+                        "value": 1990000000
+                    },
+                    {
+                        "concept": "us-gaap_AccountsPayableOtherCurrentAndNoncurrent",
+                        "unit": "usd",
+                        "label": "Accounts Payable, Other",
+                        "value": 476000000
+                    },
+                    {
+                        "concept": "us-gaap_AccruedLiabilitiesCurrent",
+                        "unit": "usd",
+                        "label": "Accrued liabilities",
+                        "value": 4260000000.0
+                    },
+                    {
+                        "concept": "us-gaap_ShortTermBorrowings",
+                        "unit": "usd",
+                        "label": "Current portion of long-term debt, net",
+                        "value": 0
+                    },
+                    {
+                        "concept": "us-gaap_OtherLiabilitiesCurrent",
+                        "unit": "usd",
+                        "label": "Other current liabilities",
+                        "value": 555000000
+                    },
+                    {
+                        "concept": "us-gaap_LiabilitiesCurrent",
+                        "unit": "usd",
+                        "label": "Total current liabilities",
+                        "value": 7281000000
+                    },
+                    {
+                        "concept": "us-gaap_LongTermDebtNoncurrent",
+                        "unit": "usd",
+                        "label": "Long-term debt, net of current portion",
+                        "value": 1721000000.0
+                    },
+                    {
+                        "concept": "us-gaap_OperatingLeaseLiabilityNoncurrent",
+                        "unit": "usd",
+                        "label": "Long-term operating lease liabilities",
+                        "value": 491000000.0
+                    },
+                    {
+                        "concept": "us-gaap_DeferredIncomeTaxLiabilitiesNet",
+                        "unit": "usd",
+                        "label": "Deferred tax liabilities",
+                        "value": 349000000
+                    },
+                    {
+                        "concept": "us-gaap_OtherLiabilitiesNoncurrent",
+                        "unit": "usd",
+                        "label": "Other long-term liabilities",
+                        "value": 1816000000
+                    },
+                    {
+                        "concept": "us-gaap_CommonStockValue",
+                        "unit": "usd",
+                        "label": "Common Stock, Value, Issued",
+                        "value": 17000000
+                    },
+                    {
+                        "concept": "us-gaap_AdditionalPaidInCapitalCommonStock",
+                        "unit": "usd",
+                        "label": "Additional paid-in capital",
+                        "value": 61362000000
+                    },
+                    {
+                        "concept": "us-gaap_TreasuryStockValue",
+                        "unit": "usd",
+                        "label": "Treasury Stock, Value",
+                        "value": 6106000000
+                    },
+                    {
+                        "concept": "us-gaap_RetainedEarningsAccumulatedDeficit",
+                        "unit": "usd",
+                        "label": "Retained earnings",
+                        "value": 2364000000
+                    },
+                    {
+                        "concept": "us-gaap_AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                        "unit": "usd",
+                        "label": "Accumulated other comprehensive loss",
+                        "value": -69000000
+                    },
+                    {
+                        "concept": "us-gaap_StockholdersEquity",
+                        "unit": "usd",
+                        "label": "Total stockholders\u2019 equity",
+                        "value": 57568000000.0
+                    },
+                    {
+                        "concept": "us-gaap_LiabilitiesAndStockholdersEquity",
+                        "unit": "usd",
+                        "label": "Total liabilities and stockholders\u2019 equity",
+                        "value": 69226000000
+                    }
+                ],
+                "ic": [
+                    {
+                        "concept": "us-gaap_RestructuringCharges",
+                        "unit": "usd",
+                        "label": "Restructuring charges",
+                        "value": 186000000.0
+                    },
+                    {
+                        "concept": "us-gaap_RevenueFromContractWithCustomerExcludingAssessedTax",
+                        "unit": "usd",
+                        "label": "Net revenue",
+                        "value": 25785000000.0
+                    },
+                    {
+                        "concept": "us-gaap_CostOfGoodsAndServiceExcludingDepreciationDepletionAndAmortization",
+                        "unit": "usd",
+                        "label": "Cost of sales",
+                        "value": 12114000000
+                    },
+                    {
+                        "concept": "us-gaap_CostDepreciationAmortizationAndDepletion",
+                        "unit": "usd",
+                        "label": "Cost, Depreciation, Amortization and Depletion",
+                        "value": 946000000
+                    },
+                    {
+                        "concept": "us-gaap_CostOfGoodsAndServicesSold",
+                        "unit": "usd",
+                        "label": "Total cost of sales",
+                        "value": 13060000000
+                    },
+                    {
+                        "concept": "us-gaap_GrossProfit",
+                        "unit": "usd",
+                        "label": "Gross profit",
+                        "value": 12725000000
+                    },
+                    {
+                        "concept": "us-gaap_ResearchAndDevelopmentExpense",
+                        "unit": "usd",
+                        "label": "Research and development",
+                        "value": 6456000000
+                    },
+                    {
+                        "concept": "us-gaap_SellingGeneralAndAdministrativeExpense",
+                        "unit": "usd",
+                        "label": "Marketing, general and administrative",
+                        "value": 2783000000
+                    },
+                    {
+                        "concept": "amd_AmortizationOfAcquisitionRelatedIntangibles_Opex",
+                        "unit": "usd",
+                        "label": "Amortization of acquisition-related intangibles_Opex",
+                        "value": 1448000000
+                    },
+                    {
+                        "concept": "amd_GainLossOnLicensingAgreement",
+                        "unit": "usd",
+                        "label": "Licensing gain",
+                        "value": 48000000
+                    },
+                    {
+                        "concept": "us-gaap_OperatingIncomeLoss",
+                        "unit": "usd",
+                        "label": "Operating income",
+                        "value": 1900000000.0
+                    },
+                    {
+                        "concept": "us-gaap_InterestExpense",
+                        "unit": "usd",
+                        "label": "Interest expense",
+                        "value": 92000000
+                    },
+                    {
+                        "concept": "us-gaap_OtherNonoperatingIncomeExpense",
+                        "unit": "usd",
+                        "label": "Other income (expense), net",
+                        "value": 181000000.0
+                    },
+                    {
+                        "concept": "us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                        "unit": "usd",
+                        "label": "Income before income taxes and equity income",
+                        "value": 1989000000
+                    },
+                    {
+                        "concept": "us-gaap_IncomeTaxExpenseBenefit",
+                        "unit": "usd",
+                        "label": "Income tax provision (benefit)",
+                        "value": 381000000.0
+                    },
+                    {
+                        "concept": "us-gaap_IncomeLossFromEquityMethodInvestments",
+                        "unit": "usd",
+                        "label": "Equity income in investee",
+                        "value": 33000000
+                    },
+                    {
+                        "concept": "us-gaap_NetIncomeLoss",
+                        "unit": "usd",
+                        "label": "Net income",
+                        "value": 1641000000.0
+                    },
+                    {
+                        "concept": "us-gaap_EarningsPerShareBasic",
+                        "unit": "usd/share",
+                        "label": "Basic (in usd per share)",
+                        "value": 1.01
+                    },
+                    {
+                        "concept": "us-gaap_EarningsPerShareDiluted",
+                        "unit": "usd/share",
+                        "label": "Diluted (in usd per share)",
+                        "value": 1.0
+                    },
+                    {
+                        "concept": "us-gaap_WeightedAverageNumberOfSharesOutstandingBasic",
+                        "unit": "shares",
+                        "label": "Basic (in shares)",
+                        "value": 1620000000.0
+                    },
+                    {
+                        "concept": "us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding",
+                        "unit": "shares",
+                        "label": "Diluted (in shares)",
+                        "value": 1637000000.0
+                    },
+                    {
+                        "concept": "us-gaap_OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationAndTax",
+                        "unit": "usd",
+                        "label": "Net change in unrealized gains (losses) on cash flow hedges",
+                        "value": -59000000
+                    },
+                    {
+                        "concept": "us-gaap_ComprehensiveIncomeNetOfTax",
+                        "unit": "usd",
+                        "label": "Total comprehensive income",
+                        "value": 1582000000
+                    }
+                ],
+                "cf": [
+                    {
+                        "concept": "us-gaap_NetIncomeLoss",
+                        "unit": "usd",
+                        "label": "Net income",
+                        "value": 1641000000.0
+                    },
+                    {
+                        "concept": "us-gaap_OtherDepreciationAndAmortization",
+                        "unit": "usd",
+                        "label": "Depreciation and amortization",
+                        "value": 671000000
+                    },
+                    {
+                        "concept": "us-gaap_AdjustmentForAmortization",
+                        "unit": "usd",
+                        "label": "Amortization of operating lease right-of-use assets",
+                        "value": 2393000000
+                    },
+                    {
+                        "concept": "us-gaap_ShareBasedCompensation",
+                        "unit": "usd",
+                        "label": "Stock-based compensation",
+                        "value": 1407000000
+                    },
+                    {
+                        "concept": "us-gaap_OperatingLeaseRightOfUseAssetAmortizationExpense",
+                        "unit": "usd",
+                        "label": "Amortization of operating lease right-of-use assets",
+                        "value": 113000000
+                    },
+                    {
+                        "concept": "amd_AmortizationOfInventoryFairValueAdjustment",
+                        "unit": "usd",
+                        "label": "Amortization of Inventory FV adjustment",
+                        "value": 0
+                    },
+                    {
+                        "concept": "us-gaap_DeferredIncomeTaxesAndTaxCredits",
+                        "unit": "usd",
+                        "label": "Deferred income taxes",
+                        "value": -1163000000
+                    },
+                    {
+                        "concept": "us-gaap_InventoryWriteDown",
+                        "unit": "usd",
+                        "label": "Inventory loss at contract manufacturer",
+                        "value": 65000000
+                    },
+                    {
+                        "concept": "us-gaap_OtherNoncashIncomeExpense",
+                        "unit": "usd",
+                        "label": "Other",
+                        "value": -12000000
+                    },
+                    {
+                        "concept": "us-gaap_IncreaseDecreaseInAccountsReceivable",
+                        "unit": "usd",
+                        "label": "Accounts receivable, net",
+                        "value": 1865000000
+                    },
+                    {
+                        "concept": "us-gaap_IncreaseDecreaseInInventories",
+                        "unit": "usd",
+                        "label": "Inventories",
+                        "value": 1458000000
+                    },
+                    {
+                        "concept": "us-gaap_IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets",
+                        "unit": "usd",
+                        "label": "Prepaid expenses and other assets",
+                        "value": -343000000
+                    },
+                    {
+                        "concept": "us-gaap_IncreaseDecreaseInDueToRelatedParties",
+                        "unit": "usd",
+                        "label": "Receivables from and payable to related parties, net",
+                        "value": 108000000
+                    },
+                    {
+                        "concept": "us-gaap_IncreaseDecreaseInAccountsPayable",
+                        "unit": "usd",
+                        "label": "Accounts payable",
+                        "value": -109000000
+                    },
+                    {
+                        "concept": "us-gaap_IncreaseDecreaseInAccruedLiabilitiesAndOtherOperatingLiabilities",
+                        "unit": "usd",
+                        "label": "Accrued and other liabilities",
+                        "value": 883000000
+                    },
+                    {
+                        "concept": "us-gaap_NetCashProvidedByUsedInOperatingActivities",
+                        "unit": "usd",
+                        "label": "Net cash provided by operating activities",
+                        "value": 3041000000
+                    },
+                    {
+                        "concept": "us-gaap_PaymentsToAcquirePropertyPlantAndEquipment",
+                        "unit": "usd",
+                        "label": "Purchases of property and equipment",
+                        "value": 636000000
+                    },
+                    {
+                        "concept": "us-gaap_PaymentsToAcquireShortTermInvestments",
+                        "unit": "usd",
+                        "label": "Purchases of short-term investments",
+                        "value": 1493000000
+                    },
+                    {
+                        "concept": "us-gaap_ProceedsFromMaturitiesPrepaymentsAndCallsOfShorttermInvestments",
+                        "unit": "usd",
+                        "label": "Proceeds from Maturities, Prepayments and Calls of Short-Term Investments",
+                        "value": 1416000000
+                    },
+                    {
+                        "concept": "us-gaap_ProceedsFromSaleOfShortTermInvestments",
+                        "unit": "usd",
+                        "label": "Proceeds from Sale of Short-Term Investments",
+                        "value": 616000000
+                    },
+                    {
+                        "concept": "amd_AcquisitionsNetOfCashAcquiredAllOthers",
+                        "unit": "usd",
+                        "label": "Acquisitions, net of cash acquired, all others",
+                        "value": 548000000
+                    },
+                    {
+                        "concept": "us-gaap_PaymentsToAcquireInterestInSubsidiariesAndAffiliates",
+                        "unit": "usd",
+                        "label": "Payments to Acquire Interest in Subsidiaries and Affiliates",
+                        "value": 17000000
+                    },
+                    {
+                        "concept": "us-gaap_OriginationOfNotesReceivableFromRelatedParties",
+                        "unit": "usd",
+                        "label": "Origination of Notes Receivable from Related Parties",
+                        "value": 100000000
+                    },
+                    {
+                        "concept": "us-gaap_PaymentsToAcquireOtherInvestments",
+                        "unit": "usd",
+                        "label": "Payments to Acquire Other Investments",
+                        "value": 341000000
+                    },
+                    {
+                        "concept": "us-gaap_PaymentsForProceedsFromOtherInvestingActivities",
+                        "unit": "usd",
+                        "label": "Other",
+                        "value": -2000000
+                    },
+                    {
+                        "concept": "us-gaap_NetCashProvidedByUsedInInvestingActivities",
+                        "unit": "usd",
+                        "label": "Net cash provided by (used in) investing activities",
+                        "value": -1101000000
+                    },
+                    {
+                        "concept": "us-gaap_ProceedsFromShortTermDebt",
+                        "unit": "usd",
+                        "label": "Proceeds from debt, net of issuance costs",
+                        "value": 0
+                    },
+                    {
+                        "concept": "us-gaap_RepaymentsOfDebt",
+                        "unit": "usd",
+                        "label": "Repayment of debt",
+                        "value": 750000000
+                    },
+                    {
+                        "concept": "us-gaap_ProceedsFromIssuanceOfSharesUnderIncentiveAndShareBasedCompensationPlansIncludingStockOptions",
+                        "unit": "usd",
+                        "label": "Proceeds from sales of common stock through employee equity plans",
+                        "value": 279000000
+                    },
+                    {
+                        "concept": "us-gaap_PaymentsForRepurchaseOfCommonStock",
+                        "unit": "usd",
+                        "label": "Repurchases of common stock",
+                        "value": 862000000
+                    },
+                    {
+                        "concept": "us-gaap_PaymentsRelatedToTaxWithholdingForShareBasedCompensation",
+                        "unit": "usd",
+                        "label": "Payment, Tax Withholding, Share-based Payment Arrangement",
+                        "value": 728000000
+                    },
+                    {
+                        "concept": "us-gaap_ProceedsFromPaymentsForOtherFinancingActivities",
+                        "unit": "usd",
+                        "label": "Other",
+                        "value": -1000000
+                    },
+                    {
+                        "concept": "us-gaap_NetCashProvidedByUsedInFinancingActivities",
+                        "unit": "usd",
+                        "label": "Net cash used in financing activities",
+                        "value": -2062000000
+                    },
+                    {
+                        "concept": "us-gaap_CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                        "unit": "usd",
+                        "label": "Net increase (decrease) in cash, cash equivalents and restricted cash",
+                        "value": -122000000
+                    },
+                    {
+                        "concept": "us-gaap_InterestPaidNet",
+                        "unit": "usd",
+                        "label": "Interest",
+                        "value": 72000000
+                    },
+                    {
+                        "concept": "us-gaap_IncomeTaxesPaidNet",
+                        "unit": "usd",
+                        "label": "Income taxes, net of refund",
+                        "value": 1386000000
+                    },
+                    {
+                        "concept": "us-gaap_CapitalExpendituresIncurredButNotYetPaid",
+                        "unit": "usd",
+                        "label": "Purchases of property and equipment, accrued but not paid",
+                        "value": 144000000
+                    },
+                    {
+                        "concept": "us-gaap_StockIssued1",
+                        "unit": "usd",
+                        "label": "Stock Issued",
+                        "value": 0
+                    },
+                    {
+                        "concept": "us-gaap_OtherSignificantNoncashTransactionValueOfConsiderationGiven1",
+                        "unit": "usd",
+                        "label": "Other Significant Noncash Transaction, Value of Consideration Given",
+                        "value": 0
+                    },
+                    {
+                        "concept": "us-gaap_RightOfUseAssetObtainedInExchangeForOperatingLeaseLiability",
+                        "unit": "usd",
+                        "label": "Right-of-Use Asset Obtained in Exchange for Operating Lease Liability",
+                        "value": 102000000
+                    }
+                ]
+            }
+        },
+        {
+            "accessNumber": "0000002488-24-000012",
+            "symbol": "AMD",
+            "cik": "2488",
+            "year": 2023,
+            "quarter": 0,
+            "form": "10-K",
+            "startDate": "2023-01-01 00:00:00",
+            "endDate": "2023-12-30 00:00:00",
+            "filedDate": "2024-01-31 00:00:00",
+            "acceptedDate": "2024-01-31 17:16:39",
+            "report": {
+                "bs": [
+                    {
+                        "concept": "us-gaap_CashAndCashEquivalentsAtCarryingValue",
+                        "unit": "usd",
+                        "label": "Cash and cash equivalents",
+                        "value": 3933000000
+                    },
+                    {
+                        "concept": "us-gaap_ShortTermInvestments",
+                        "unit": "usd",
+                        "label": "Short-term investments",
+                        "value": 1840000000
+                    },
+                    {
+                        "concept": "us-gaap_AccountsReceivableNetCurrent",
+                        "unit": "usd",
+                        "label": "Accounts receivable, net",
+                        "value": 5376000000
+                    },
+                    {
+                        "concept": "us-gaap_InventoryNet",
+                        "unit": "usd",
+                        "label": "Inventories",
+                        "value": 4351000000.0
+                    },
+                    {
+                        "concept": "us-gaap_OtherReceivables",
+                        "unit": "usd",
+                        "label": "Other Receivables",
+                        "value": 9000000
+                    },
+                    {
+                        "concept": "us-gaap_PrepaidExpenseAndOtherAssetsCurrent",
+                        "unit": "usd",
+                        "label": "Prepaid expenses and other current assets",
+                        "value": 1259000000
+                    },
+                    {
+                        "concept": "us-gaap_AssetsCurrent",
+                        "unit": "usd",
+                        "label": "Total current assets",
+                        "value": 16768000000
+                    },
+                    {
+                        "concept": "us-gaap_PropertyPlantAndEquipmentNet",
+                        "unit": "usd",
+                        "label": "Property and equipment, net",
+                        "value": 1589000000.0
+                    },
+                    {
+                        "concept": "us-gaap_OperatingLeaseRightOfUseAsset",
+                        "unit": "usd",
+                        "label": "Operating lease right-of-use assets",
+                        "value": 633000000
+                    },
+                    {
+                        "concept": "us-gaap_Goodwill",
+                        "unit": "usd",
+                        "label": "Goodwill",
+                        "value": 24262000000.0
+                    },
+                    {
+                        "concept": "us-gaap_IntangibleAssetsNetExcludingGoodwill",
+                        "unit": "usd",
+                        "label": "Acquisition-related intangibles",
+                        "value": 21363000000.0
+                    },
+                    {
+                        "concept": "us-gaap_EquityMethodInvestments",
+                        "unit": "usd",
+                        "label": "Investment: equity method",
+                        "value": 99000000
+                    },
+                    {
+                        "concept": "us-gaap_DeferredIncomeTaxAssetsNet",
+                        "unit": "usd",
+                        "label": "Deferred tax assets",
+                        "value": 366000000
+                    },
+                    {
+                        "concept": "us-gaap_OtherAssetsNoncurrent",
+                        "unit": "usd",
+                        "label": "Other non-current assets",
+                        "value": 2805000000
+                    },
+                    {
+                        "concept": "us-gaap_Assets",
+                        "unit": "usd",
+                        "label": "Total assets",
+                        "value": 67885000000
+                    },
+                    {
+                        "concept": "us-gaap_AccountsPayableCurrent",
+                        "unit": "usd",
+                        "label": "Accounts payable",
+                        "value": 2055000000
+                    },
+                    {
+                        "concept": "us-gaap_AccountsPayableOtherCurrentAndNoncurrent",
+                        "unit": "usd",
+                        "label": "Accounts Payable, Other",
+                        "value": 363000000
+                    },
+                    {
+                        "concept": "us-gaap_AccruedLiabilitiesCurrent",
+                        "unit": "usd",
+                        "label": "Accrued liabilities",
+                        "value": 3082000000.0
+                    },
+                    {
+                        "concept": "us-gaap_ShortTermBorrowings",
+                        "unit": "usd",
+                        "label": "Current portion of long-term debt, net",
+                        "value": 751000000.0
+                    },
+                    {
+                        "concept": "us-gaap_OtherLiabilitiesCurrent",
+                        "unit": "usd",
+                        "label": "Other current liabilities",
+                        "value": 438000000
+                    },
+                    {
+                        "concept": "us-gaap_LiabilitiesCurrent",
+                        "unit": "usd",
+                        "label": "Total current liabilities",
+                        "value": 6689000000
+                    },
+                    {
+                        "concept": "us-gaap_LongTermDebtNoncurrent",
+                        "unit": "usd",
+                        "label": "Long-term debt, net of current portion",
+                        "value": 1717000000.0
+                    },
+                    {
+                        "concept": "us-gaap_OperatingLeaseLiabilityNoncurrent",
+                        "unit": "usd",
+                        "label": "Long-term operating lease liabilities",
+                        "value": 535000000.0
+                    },
+                    {
+                        "concept": "us-gaap_DeferredIncomeTaxLiabilitiesNet",
+                        "unit": "usd",
+                        "label": "Deferred tax liabilities",
+                        "value": 1202000000
+                    },
+                    {
+                        "concept": "us-gaap_OtherLiabilitiesNoncurrent",
+                        "unit": "usd",
+                        "label": "Other long-term liabilities",
+                        "value": 1850000000
+                    },
+                    {
+                        "concept": "us-gaap_CommonStockValue",
+                        "unit": "usd",
+                        "label": "Common Stock, Value, Issued",
+                        "value": 17000000
+                    },
+                    {
+                        "concept": "us-gaap_AdditionalPaidInCapitalCommonStock",
+                        "unit": "usd",
+                        "label": "Additional paid-in capital",
+                        "value": 59676000000
+                    },
+                    {
+                        "concept": "us-gaap_TreasuryStockCommonShares",
+                        "unit": "shares",
+                        "label": "Treasury stock (shares)",
+                        "value": 47000000
+                    },
+                    {
+                        "concept": "us-gaap_TreasuryStockValue",
+                        "unit": "usd",
+                        "label": "Treasury Stock, Value",
+                        "value": 4514000000
+                    },
+                    {
+                        "concept": "us-gaap_RetainedEarningsAccumulatedDeficit",
+                        "unit": "usd",
+                        "label": "Retained earnings (Accumulated deficit)",
+                        "value": 723000000
+                    },
+                    {
+                        "concept": "us-gaap_AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                        "unit": "usd",
+                        "label": "Accumulated other comprehensive loss",
+                        "value": -10000000
+                    },
+                    {
+                        "concept": "us-gaap_StockholdersEquity",
+                        "unit": "usd",
+                        "label": "Total stockholders\u2019 equity",
+                        "value": 55892000000.0
+                    },
+                    {
+                        "concept": "us-gaap_LiabilitiesAndStockholdersEquity",
+                        "unit": "usd",
+                        "label": "Total liabilities and stockholders\u2019 equity",
+                        "value": 67885000000
+                    }
+                ],
+                "ic": [
+                    {
+                        "concept": "us-gaap_RevenueFromContractWithCustomerExcludingAssessedTax",
+                        "unit": "usd",
+                        "label": "Net revenue",
+                        "value": 22680000000.0
+                    },
+                    {
+                        "concept": "us-gaap_CostOfGoodsAndServiceExcludingDepreciationDepletionAndAmortization",
+                        "unit": "usd",
+                        "label": "Cost of sales",
+                        "value": 11278000000
+                    },
+                    {
+                        "concept": "amd_AmortizationOfAcquisitionRelatedIntangibles",
+                        "unit": "usd",
+                        "label": "Amortization of acquisition-related intangibles",
+                        "value": 942000000
+                    },
+                    {
+                        "concept": "us-gaap_CostOfGoodsAndServicesSold",
+                        "unit": "usd",
+                        "label": "Total cost of sales",
+                        "value": 12220000000
+                    },
+                    {
+                        "concept": "us-gaap_GrossProfit",
+                        "unit": "usd",
+                        "label": "Gross profit",
+                        "value": 10460000000
+                    },
+                    {
+                        "concept": "us-gaap_ResearchAndDevelopmentExpense",
+                        "unit": "usd",
+                        "label": "Research and development",
+                        "value": 5872000000
+                    },
+                    {
+                        "concept": "us-gaap_SellingGeneralAndAdministrativeExpense",
+                        "unit": "usd",
+                        "label": "Marketing, general and administrative",
+                        "value": 2352000000
+                    },
+                    {
+                        "concept": "amd_AmortizationOfAcquisitionRelatedIntangibles_Opex",
+                        "unit": "usd",
+                        "label": "Amortization of acquisition-related intangibles",
+                        "value": 1869000000
+                    },
+                    {
+                        "concept": "amd_GainLossOnLicensingAgreement",
+                        "unit": "usd",
+                        "label": "Licensing gain",
+                        "value": 34000000
+                    },
+                    {
+                        "concept": "us-gaap_OperatingIncomeLoss",
+                        "unit": "usd",
+                        "label": "Operating income",
+                        "value": 401000000.0
+                    },
+                    {
+                        "concept": "us-gaap_InterestExpense",
+                        "unit": "usd",
+                        "label": "Interest expense",
+                        "value": 106000000
+                    },
+                    {
+                        "concept": "us-gaap_OtherNonoperatingIncomeExpense",
+                        "unit": "usd",
+                        "label": "Other income (expense), net",
+                        "value": 197000000.0
+                    },
+                    {
+                        "concept": "us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                        "unit": "usd",
+                        "label": "Income before income taxes and equity income",
+                        "value": 492000000
+                    },
+                    {
+                        "concept": "us-gaap_IncomeTaxExpenseBenefit",
+                        "unit": "usd",
+                        "label": "Income tax provision (benefit)",
+                        "value": -346000000.0
+                    },
+                    {
+                        "concept": "us-gaap_IncomeLossFromEquityMethodInvestments",
+                        "unit": "usd",
+                        "label": "Equity income in investee",
+                        "value": 16000000
+                    },
+                    {
+                        "concept": "us-gaap_NetIncomeLoss",
+                        "unit": "usd",
+                        "label": "Net income",
+                        "value": 854000000.0
+                    },
+                    {
+                        "concept": "us-gaap_EarningsPerShareBasic",
+                        "unit": "usd/share",
+                        "label": "Basic (in usd per share)",
+                        "value": 0.53
+                    },
+                    {
+                        "concept": "us-gaap_EarningsPerShareDiluted",
+                        "unit": "usd/share",
+                        "label": "Diluted (in usd per share)",
+                        "value": 0.53
+                    },
+                    {
+                        "concept": "us-gaap_WeightedAverageNumberOfSharesOutstandingBasic",
+                        "unit": "shares",
+                        "label": "Basic (in shares)",
+                        "value": 1614000000.0
+                    },
+                    {
+                        "concept": "us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding",
+                        "unit": "shares",
+                        "label": "Diluted (in shares)",
+                        "value": 1625000000.0
+                    },
+                    {
+                        "concept": "us-gaap_OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationAndTax",
+                        "unit": "usd",
+                        "label": "Net change in unrealized gains (losses) on cash flow hedges",
+                        "value": 31000000
+                    },
+                    {
+                        "concept": "us-gaap_ComprehensiveIncomeNetOfTax",
+                        "unit": "usd",
+                        "label": "Total comprehensive income",
+                        "value": 885000000
+                    }
+                ],
+                "cf": [
+                    {
+                        "concept": "us-gaap_NetIncomeLoss",
+                        "unit": "usd",
+                        "label": "Net income",
+                        "value": 854000000.0
+                    },
+                    {
+                        "concept": "us-gaap_OtherDepreciationAndAmortization",
+                        "unit": "usd",
+                        "label": "Depreciation and amortization",
+                        "value": 3453000000
+                    },
+                    {
+                        "concept": "us-gaap_ShareBasedCompensation",
+                        "unit": "usd",
+                        "label": "Stock-based compensation",
+                        "value": 1384000000
+                    },
+                    {
+                        "concept": "us-gaap_OperatingLeaseRightOfUseAssetAmortizationExpense",
+                        "unit": "usd",
+                        "label": "Amortization of operating lease right-of-use assets",
+                        "value": 98000000
+                    },
+                    {
+                        "concept": "amd_AmortizationOfInventoryFairValueAdjustment",
+                        "unit": "usd",
+                        "label": "Amortization of Inventory FV adjustment",
+                        "value": 3000000
+                    },
+                    {
+                        "concept": "us-gaap_GainsLossesOnExtinguishmentOfDebt",
+                        "unit": "usd",
+                        "label": "Loss on debt redemption, repurchase and conversion",
+                        "value": 0.0
+                    },
+                    {
+                        "concept": "us-gaap_GainLossOnSaleOfPropertyPlantEquipment",
+                        "unit": "usd",
+                        "label": "Loss on sale or disposal of property and equipment",
+                        "value": -11000000
+                    },
+                    {
+                        "concept": "us-gaap_DeferredIncomeTaxesAndTaxCredits",
+                        "unit": "usd",
+                        "label": "Deferred income taxes",
+                        "value": -1019000000
+                    },
+                    {
+                        "concept": "us-gaap_IncreaseDecreaseInEquitySecuritiesFvNi",
+                        "unit": "usd",
+                        "label": "Increase (Decrease) in Equity Securities, FV-NI",
+                        "value": 1000000.0
+                    },
+                    {
+                        "concept": "us-gaap_OtherNoncashIncomeExpense",
+                        "unit": "usd",
+                        "label": "Other",
+                        "value": 67000000
+                    },
+                    {
+                        "concept": "us-gaap_IncreaseDecreaseInAccountsReceivable",
+                        "unit": "usd",
+                        "label": "Accounts receivable, net",
+                        "value": 1250000000
+                    },
+                    {
+                        "concept": "us-gaap_IncreaseDecreaseInInventories",
+                        "unit": "usd",
+                        "label": "Inventories",
+                        "value": 580000000
+                    },
+                    {
+                        "concept": "amd_IncreaseDecreaseinPrepaymentsRelatedParties",
+                        "unit": "usd",
+                        "label": "Receivables from related parties",
+                        "value": -7000000
+                    },
+                    {
+                        "concept": "us-gaap_IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets",
+                        "unit": "usd",
+                        "label": "Prepaid expenses and other assets",
+                        "value": 472000000
+                    },
+                    {
+                        "concept": "us-gaap_IncreaseDecreaseInDueToRelatedParties",
+                        "unit": "usd",
+                        "label": "Payables to related parties",
+                        "value": -100000000
+                    },
+                    {
+                        "concept": "us-gaap_IncreaseDecreaseInAccountsPayable",
+                        "unit": "usd",
+                        "label": "Accounts payable",
+                        "value": -419000000
+                    },
+                    {
+                        "concept": "us-gaap_IncreaseDecreaseInAccruedLiabilitiesAndOtherOperatingLiabilities",
+                        "unit": "usd",
+                        "label": "Accrued and other liabilities",
+                        "value": -221000000
+                    },
+                    {
+                        "concept": "us-gaap_NetCashProvidedByUsedInOperatingActivities",
+                        "unit": "usd",
+                        "label": "Net cash provided by operating activities",
+                        "value": 1667000000
+                    },
+                    {
+                        "concept": "us-gaap_PaymentsToAcquirePropertyPlantAndEquipment",
+                        "unit": "usd",
+                        "label": "Purchases of property and equipment",
+                        "value": 546000000
+                    },
+                    {
+                        "concept": "us-gaap_PaymentsToAcquireShortTermInvestments",
+                        "unit": "usd",
+                        "label": "Purchases of short-term investments",
+                        "value": 3722000000
+                    },
+                    {
+                        "concept": "us-gaap_ProceedsFromMaturitiesPrepaymentsAndCallsOfShorttermInvestments",
+                        "unit": "usd",
+                        "label": "Proceeds from Maturities, Prepayments and Calls of Short-Term Investments",
+                        "value": 2687000000
+                    },
+                    {
+                        "concept": "us-gaap_ProceedsFromSaleOfShortTermInvestments",
+                        "unit": "usd",
+                        "label": "Proceeds from Sale of Short-Term Investments",
+                        "value": 300000000
+                    },
+                    {
+                        "concept": "amd_AcquisitionsNetOfCashAcquiredAllOthers",
+                        "unit": "usd",
+                        "label": "Acquisitions, net of cash acquired, all others",
+                        "value": 131000000
+                    },
+                    {
+                        "concept": "us-gaap_PaymentsForProceedsFromOtherInvestingActivities",
+                        "unit": "usd",
+                        "label": "Other",
+                        "value": 11000000
+                    },
+                    {
+                        "concept": "us-gaap_NetCashProvidedByUsedInInvestingActivities",
+                        "unit": "usd",
+                        "label": "Net cash provided by (used in) investing activities",
+                        "value": -1423000000
+                    },
+                    {
+                        "concept": "us-gaap_ProceedsFromShortTermDebt",
+                        "unit": "usd",
+                        "label": "Proceeds from debt, net of issuance costs",
+                        "value": 0
+                    },
+                    {
+                        "concept": "us-gaap_RepaymentsOfDebt",
+                        "unit": "usd",
+                        "label": "Repayment of debt",
+                        "value": 0
+                    },
+                    {
+                        "concept": "us-gaap_ProceedsFromIssuanceOfSharesUnderIncentiveAndShareBasedCompensationPlansIncludingStockOptions",
+                        "unit": "usd",
+                        "label": "Proceeds from sales of common stock through employee equity plans",
+                        "value": 268000000
+                    },
+                    {
+                        "concept": "us-gaap_PaymentsForRepurchaseOfCommonStock",
+                        "unit": "usd",
+                        "label": "Repurchases of common stock",
+                        "value": 985000000
+                    },
+                    {
+                        "concept": "us-gaap_PaymentsRelatedToTaxWithholdingForShareBasedCompensation",
+                        "unit": "usd",
+                        "label": "Payment, Tax Withholding, Share-based Payment Arrangement",
+                        "value": 427000000
+                    },
+                    {
+                        "concept": "us-gaap_ProceedsFromPaymentsForOtherFinancingActivities",
+                        "unit": "usd",
+                        "label": "Other",
+                        "value": -2000000
+                    },
+                    {
+                        "concept": "us-gaap_NetCashProvidedByUsedInFinancingActivities",
+                        "unit": "usd",
+                        "label": "Net cash used in financing activities",
+                        "value": -1146000000
+                    },
+                    {
+                        "concept": "us-gaap_CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                        "unit": "usd",
+                        "label": "Net increase (decrease) in cash and cash equivalents",
+                        "value": -902000000
+                    },
+                    {
+                        "concept": "us-gaap_InterestPaidNet",
+                        "unit": "usd",
+                        "label": "Interest",
+                        "value": 84000000
+                    },
+                    {
+                        "concept": "us-gaap_IncomeTaxesPaidNet",
+                        "unit": "usd",
+                        "label": "Income taxes, net of refund",
+                        "value": 523000000
+                    },
+                    {
+                        "concept": "us-gaap_CapitalExpendituresIncurredButNotYetPaid",
+                        "unit": "usd",
+                        "label": "Purchases of property and equipment, accrued but not paid",
+                        "value": 106000000
+                    },
+                    {
+                        "concept": "us-gaap_RightOfUseAssetObtainedInExchangeForOperatingLeaseLiability",
+                        "unit": "usd",
+                        "label": "Right-of-Use Asset Obtained in Exchange for Operating Lease Liability",
+                        "value": 273000000
+                    }
+                ]
+            }
+        },
+        {
+            "accessNumber": "0000002488-22-000016",
+            "symbol": "AMD",
+            "cik": "2488",
+            "year": 2021,
+            "quarter": 0,
+            "form": "10-K",
+            "startDate": "2020-12-27 00:00:00",
+            "endDate": "2021-12-25 00:00:00",
+            "filedDate": "2022-02-03 00:00:00",
+            "acceptedDate": "2022-02-03 17:22:50",
+            "report": {
+                "bs": [
+                    {
+                        "concept": "us-gaap_CashAndCashEquivalentsAtCarryingValue",
+                        "unit": "usd",
+                        "label": "Cash and cash equivalents",
+                        "value": 2535000000.0
+                    },
+                    {
+                        "concept": "us-gaap_ShortTermInvestments",
+                        "unit": "usd",
+                        "label": "Short-term investments",
+                        "value": 1073000000.0
+                    },
+                    {
+                        "concept": "us-gaap_AccountsReceivableNetCurrent",
+                        "unit": "usd",
+                        "label": "Accounts receivable, net",
+                        "value": 2706000000
+                    },
+                    {
+                        "concept": "us-gaap_InventoryNet",
+                        "unit": "usd",
+                        "label": "Inventories",
+                        "value": 1955000000.0
+                    },
+                    {
+                        "concept": "us-gaap_RelatedPartyTransactionDueFromToRelatedPartyCurrent",
+                        "unit": "usd",
+                        "label": "Receivables from related parties",
+                        "value": 2000000
+                    },
+                    {
+                        "concept": "us-gaap_PrepaidExpenseAndOtherAssetsCurrent",
+                        "unit": "usd",
+                        "label": "Prepaid expenses and other current assets",
+                        "value": 312000000
+                    },
+                    {
+                        "concept": "us-gaap_AssetsCurrent",
+                        "unit": "usd",
+                        "label": "Total current assets",
+                        "value": 8583000000
+                    },
+                    {
+                        "concept": "us-gaap_PropertyPlantAndEquipmentNet",
+                        "unit": "usd",
+                        "label": "Property and equipment, net",
+                        "value": 702000000.0
+                    },
+                    {
+                        "concept": "us-gaap_OperatingLeaseRightOfUseAsset",
+                        "unit": "usd",
+                        "label": "Operating lease right-of-use assets",
+                        "value": 367000000
+                    },
+                    {
+                        "concept": "us-gaap_Goodwill",
+                        "unit": "usd",
+                        "label": "Goodwill",
+                        "value": 289000000
+                    },
+                    {
+                        "concept": "us-gaap_EquityMethodInvestments",
+                        "unit": "usd",
+                        "label": "Investment: equity method",
+                        "value": 69000000
+                    },
+                    {
+                        "concept": "us-gaap_DeferredIncomeTaxAssetsNet",
+                        "unit": "usd",
+                        "label": "Deferred tax assets",
+                        "value": 931000000.0
+                    },
+                    {
+                        "concept": "us-gaap_OtherAssetsNoncurrent",
+                        "unit": "usd",
+                        "label": "Other non-current assets",
+                        "value": 1478000000.0
+                    },
+                    {
+                        "concept": "us-gaap_Assets",
+                        "unit": "usd",
+                        "label": "Total assets",
+                        "value": 12419000000
+                    },
+                    {
+                        "concept": "us-gaap_AccountsPayableCurrent",
+                        "unit": "usd",
+                        "label": "Accounts payable",
+                        "value": 1321000000
+                    },
+                    {
+                        "concept": "us-gaap_AccountsPayableRelatedPartiesCurrent",
+                        "unit": "usd",
+                        "label": "Payables to related parties",
+                        "value": 85000000
+                    },
+                    {
+                        "concept": "us-gaap_AccruedLiabilitiesCurrent",
+                        "unit": "usd",
+                        "label": "Accrued liabilities",
+                        "value": 2424000000.0
+                    },
+                    {
+                        "concept": "us-gaap_ShortTermBorrowings",
+                        "unit": "usd",
+                        "label": "Current portion of long-term debt, net",
+                        "value": 312000000.0
+                    },
+                    {
+                        "concept": "us-gaap_OtherLiabilitiesCurrent",
+                        "unit": "usd",
+                        "label": "Other current liabilities",
+                        "value": 98000000
+                    },
+                    {
+                        "concept": "us-gaap_LiabilitiesCurrent",
+                        "unit": "usd",
+                        "label": "Total current liabilities",
+                        "value": 4240000000
+                    },
+                    {
+                        "concept": "us-gaap_LongTermDebtNoncurrent",
+                        "unit": "usd",
+                        "label": "Long-term debt, net of current portion",
+                        "value": 1000000
+                    },
+                    {
+                        "concept": "us-gaap_OperatingLeaseLiabilityNoncurrent",
+                        "unit": "usd",
+                        "label": "Long-term operating lease liabilities",
+                        "value": 348000000.0
+                    },
+                    {
+                        "concept": "us-gaap_OtherLiabilitiesNoncurrent",
+                        "unit": "usd",
+                        "label": "Other long-term liabilities",
+                        "value": 333000000
+                    },
+                    {
+                        "concept": "us-gaap_CommonStockValue",
+                        "unit": "usd",
+                        "label": "Common Stock, Value, Issued",
+                        "value": 12000000
+                    },
+                    {
+                        "concept": "us-gaap_AdditionalPaidInCapitalCommonStock",
+                        "unit": "usd",
+                        "label": "Additional paid-in capital",
+                        "value": 11069000000
+                    },
+                    {
+                        "concept": "us-gaap_TreasuryStockShares",
+                        "unit": "shares",
+                        "label": "Treasury stock (shares)",
+                        "value": 25000000
+                    },
+                    {
+                        "concept": "us-gaap_TreasuryStockValue",
+                        "unit": "usd",
+                        "label": "Treasury Stock, Value",
+                        "value": 2130000000
+                    },
+                    {
+                        "concept": "us-gaap_RetainedEarningsAccumulatedDeficit",
+                        "unit": "usd",
+                        "label": "Accumulated deficit",
+                        "value": -1451000000
+                    },
+                    {
+                        "concept": "us-gaap_AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                        "unit": "usd",
+                        "label": "Accumulated other comprehensive income (loss)",
+                        "value": -3000000
+                    },
+                    {
+                        "concept": "us-gaap_StockholdersEquity",
+                        "unit": "usd",
+                        "label": "Total stockholders\u2019 equity",
+                        "value": 7497000000.0
+                    },
+                    {
+                        "concept": "us-gaap_LiabilitiesAndStockholdersEquity",
+                        "unit": "usd",
+                        "label": "Total liabilities and stockholders\u2019 equity",
+                        "value": 12419000000
+                    }
+                ],
+                "ic": [
+                    {
+                        "concept": "us-gaap_RevenueFromContractWithCustomerExcludingAssessedTax",
+                        "unit": "usd",
+                        "label": "Net revenue",
+                        "value": 16434000000.0
+                    },
+                    {
+                        "concept": "us-gaap_CostOfGoodsAndServicesSold",
+                        "unit": "usd",
+                        "label": "Cost of sales",
+                        "value": 8505000000
+                    },
+                    {
+                        "concept": "us-gaap_GrossProfit",
+                        "unit": "usd",
+                        "label": "Gross profit",
+                        "value": 7929000000
+                    },
+                    {
+                        "concept": "us-gaap_ResearchAndDevelopmentExpense",
+                        "unit": "usd",
+                        "label": "Research and development",
+                        "value": 2845000000
+                    },
+                    {
+                        "concept": "us-gaap_SellingGeneralAndAdministrativeExpense",
+                        "unit": "usd",
+                        "label": "Marketing, general and administrative",
+                        "value": 1448000000
+                    },
+                    {
+                        "concept": "amd_GainLossOnLicensingAgreement",
+                        "unit": "usd",
+                        "label": "Licensing gain",
+                        "value": 12000000
+                    },
+                    {
+                        "concept": "us-gaap_OperatingIncomeLoss",
+                        "unit": "usd",
+                        "label": "Operating income",
+                        "value": 3648000000.0
+                    },
+                    {
+                        "concept": "us-gaap_InterestExpense",
+                        "unit": "usd",
+                        "label": "Interest expense",
+                        "value": 34000000
+                    },
+                    {
+                        "concept": "us-gaap_OtherNonoperatingIncomeExpense",
+                        "unit": "usd",
+                        "label": "Other income (expense), net",
+                        "value": 55000000.0
+                    },
+                    {
+                        "concept": "us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                        "unit": "usd",
+                        "label": "Income before income taxes and equity income",
+                        "value": 3669000000
+                    },
+                    {
+                        "concept": "us-gaap_IncomeTaxExpenseBenefit",
+                        "unit": "usd",
+                        "label": "Income tax provision (benefit)",
+                        "value": 513000000.0
+                    },
+                    {
+                        "concept": "us-gaap_IncomeLossFromEquityMethodInvestments",
+                        "unit": "usd",
+                        "label": "Equity income in investee",
+                        "value": 6000000
+                    },
+                    {
+                        "concept": "us-gaap_NetIncomeLoss",
+                        "unit": "usd",
+                        "label": "Net income",
+                        "value": 3162000000.0
+                    },
+                    {
+                        "concept": "us-gaap_EarningsPerShareBasic",
+                        "unit": "usd/share",
+                        "label": "Basic (in usd per share)",
+                        "value": 2.61
+                    },
+                    {
+                        "concept": "us-gaap_EarningsPerShareDiluted",
+                        "unit": "usd/share",
+                        "label": "Diluted (in usd per share)",
+                        "value": 2.57
+                    },
+                    {
+                        "concept": "us-gaap_WeightedAverageNumberOfSharesOutstandingBasic",
+                        "unit": "shares",
+                        "label": "Basic (in shares)",
+                        "value": 1213000000.0
+                    },
+                    {
+                        "concept": "us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding",
+                        "unit": "shares",
+                        "label": "Diluted (in shares)",
+                        "value": 1229000000.0
+                    },
+                    {
+                        "concept": "us-gaap_OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationAndTax",
+                        "unit": "usd",
+                        "label": "Net change in unrealized gains (losses) on cash flow hedges",
+                        "value": -20000000
+                    },
+                    {
+                        "concept": "us-gaap_ComprehensiveIncomeNetOfTax",
+                        "unit": "usd",
+                        "label": "Total comprehensive income",
+                        "value": 3142000000
+                    }
+                ],
+                "cf": [
+                    {
+                        "concept": "us-gaap_NetIncomeLoss",
+                        "unit": "usd",
+                        "label": "Net income",
+                        "value": 3162000000.0
+                    },
+                    {
+                        "concept": "us-gaap_OtherDepreciationAndAmortization",
+                        "unit": "usd",
+                        "label": "Depreciation and amortization",
+                        "value": 407000000
+                    },
+                    {
+                        "concept": "us-gaap_ShareBasedCompensation",
+                        "unit": "usd",
+                        "label": "Stock-based compensation",
+                        "value": 379000000
+                    },
+                    {
+                        "concept": "us-gaap_AmortizationOfFinancingCostsAndDiscounts",
+                        "unit": "usd",
+                        "label": "Amortization of debt discount and issuance costs",
+                        "value": 5000000
+                    },
+                    {
+                        "concept": "us-gaap_OperatingLeaseRightOfUseAssetAmortizationExpense",
+                        "unit": "usd",
+                        "label": "Amortization of operating lease right-of-use assets",
+                        "value": 56000000
+                    },
+                    {
+                        "concept": "us-gaap_GainsLossesOnExtinguishmentOfDebt",
+                        "unit": "usd",
+                        "label": "Loss on debt redemption, repurchase and conversion",
+                        "value": -7000000.0
+                    },
+                    {
+                        "concept": "us-gaap_GainLossOnSaleOfPropertyPlantEquipment",
+                        "unit": "usd",
+                        "label": "Loss on sale or disposal of property and equipment",
+                        "value": -34000000
+                    },
+                    {
+                        "concept": "us-gaap_DeferredIncomeTaxesAndTaxCredits",
+                        "unit": "usd",
+                        "label": "Deferred income taxes",
+                        "value": 308000000
+                    },
+                    {
+                        "concept": "us-gaap_IncreaseDecreaseInEquitySecuritiesFvNi",
+                        "unit": "usd",
+                        "label": "Increase (Decrease) in Equity Securities, FV-NI",
+                        "value": 56000000.0
+                    },
+                    {
+                        "concept": "us-gaap_OtherNoncashIncomeExpense",
+                        "unit": "usd",
+                        "label": "Other",
+                        "value": 7000000
+                    },
+                    {
+                        "concept": "us-gaap_IncreaseDecreaseInAccountsReceivable",
+                        "unit": "usd",
+                        "label": "Accounts receivable, net",
+                        "value": 640000000
+                    },
+                    {
+                        "concept": "us-gaap_IncreaseDecreaseInInventories",
+                        "unit": "usd",
+                        "label": "Inventories",
+                        "value": 556000000
+                    },
+                    {
+                        "concept": "amd_IncreaseDecreaseinPrepaymentsRelatedParties",
+                        "unit": "usd",
+                        "label": "Receivables from related parties",
+                        "value": -8000000
+                    },
+                    {
+                        "concept": "us-gaap_IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets",
+                        "unit": "usd",
+                        "label": "Prepaid expenses and other assets",
+                        "value": 920000000
+                    },
+                    {
+                        "concept": "us-gaap_IncreaseDecreaseInDueToRelatedParties",
+                        "unit": "usd",
+                        "label": "Payables to related parties",
+                        "value": 7000000
+                    },
+                    {
+                        "concept": "us-gaap_IncreaseDecreaseInAccountsPayable",
+                        "unit": "usd",
+                        "label": "Accounts payable",
+                        "value": 801000000
+                    },
+                    {
+                        "concept": "us-gaap_IncreaseDecreaseInAccruedLiabilitiesAndOtherOperatingLiabilities",
+                        "unit": "usd",
+                        "label": "Accrued liabilities and other",
+                        "value": 526000000
+                    },
+                    {
+                        "concept": "us-gaap_NetCashProvidedByUsedInOperatingActivities",
+                        "unit": "usd",
+                        "label": "Net cash provided by operating activities",
+                        "value": 3521000000
+                    },
+                    {
+                        "concept": "us-gaap_PaymentsToAcquirePropertyPlantAndEquipment",
+                        "unit": "usd",
+                        "label": "Purchases of property and equipment",
+                        "value": 301000000
+                    },
+                    {
+                        "concept": "us-gaap_PaymentsToAcquireShortTermInvestments",
+                        "unit": "usd",
+                        "label": "Payments to Acquire Short-term Investments",
+                        "value": 2056000000
+                    },
+                    {
+                        "concept": "us-gaap_ProceedsFromSaleMaturityAndCollectionOfShorttermInvestments",
+                        "unit": "usd",
+                        "label": "Proceeds from maturity of short-term investments",
+                        "value": 1678000000
+                    },
+                    {
+                        "concept": "us-gaap_ProceedsFromSaleAndCollectionOfReceivables",
+                        "unit": "usd",
+                        "label": "Collection of deferred proceeds on sale of receivables",
+                        "value": 0
+                    },
+                    {
+                        "concept": "us-gaap_PaymentsForProceedsFromOtherInvestingActivities",
+                        "unit": "usd",
+                        "label": "Other",
+                        "value": 7000000
+                    },
+                    {
+                        "concept": "us-gaap_NetCashProvidedByUsedInInvestingActivities",
+                        "unit": "usd",
+                        "label": "Net cash used in investing activities",
+                        "value": -686000000
+                    },
+                    {
+                        "concept": "us-gaap_ProceedsFromShortTermDebt",
+                        "unit": "usd",
+                        "label": "Proceeds from short-term borrowings",
+                        "value": 0
+                    },
+                    {
+                        "concept": "us-gaap_RepaymentsOfDebt",
+                        "unit": "usd",
+                        "label": "Repayments and extinguishment of debt",
+                        "value": 0
+                    },
+                    {
+                        "concept": "us-gaap_ProceedsFromWarrantExercises",
+                        "unit": "usd",
+                        "label": "Proceeds from Warrant Exercises",
+                        "value": 0
+                    },
+                    {
+                        "concept": "us-gaap_ProceedsFromIssuanceOfSharesUnderIncentiveAndShareBasedCompensationPlansIncludingStockOptions",
+                        "unit": "usd",
+                        "label": "Proceeds from sales of common stock through employee equity plans",
+                        "value": 104000000
+                    },
+                    {
+                        "concept": "us-gaap_PaymentsForRepurchaseOfCommonStock",
+                        "unit": "usd",
+                        "label": "Repurchases of common stock",
+                        "value": 1762000000
+                    },
+                    {
+                        "concept": "us-gaap_PaymentsRelatedToTaxWithholdingForShareBasedCompensation",
+                        "unit": "usd",
+                        "label": "Payment, Tax Withholding, Share-based Payment Arrangement",
+                        "value": 237000000
+                    },
+                    {
+                        "concept": "us-gaap_ProceedsFromPaymentsForOtherFinancingActivities",
+                        "unit": "usd",
+                        "label": "Other",
+                        "value": 0
+                    },
+                    {
+                        "concept": "us-gaap_NetCashProvidedByUsedInFinancingActivities",
+                        "unit": "usd",
+                        "label": "Net cash (used in) provided by financing activities",
+                        "value": -1895000000
+                    },
+                    {
+                        "concept": "us-gaap_CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                        "unit": "usd",
+                        "label": "Net increase in cash and cash equivalents, and restricted cash",
+                        "value": 940000000
+                    },
+                    {
+                        "concept": "us-gaap_InterestPaidNet",
+                        "unit": "usd",
+                        "label": "Interest",
+                        "value": 25000000
+                    },
+                    {
+                        "concept": "us-gaap_IncomeTaxesPaidNet",
+                        "unit": "usd",
+                        "label": "Income taxes, net of refund",
+                        "value": 35000000
+                    },
+                    {
+                        "concept": "us-gaap_CapitalExpendituresIncurredButNotYetPaid",
+                        "unit": "usd",
+                        "label": "Purchases of property and equipment, accrued but not paid",
+                        "value": 72000000
+                    },
+                    {
+                        "concept": "us-gaap_StockIssuedDuringPeriodValueConversionOfConvertibleSecuritiesNetOfAdjustments",
+                        "unit": "usd",
+                        "label": "Issuance of common stock to settle convertible debt",
+                        "value": 25000000
+                    },
+                    {
+                        "concept": "us-gaap_NoncashOrPartNoncashAcquisitionFixedAssetsAcquired1",
+                        "unit": "usd",
+                        "label": "Transfer of assets for the acquisition of property and equipment",
+                        "value": 37000000
+                    },
+                    {
+                        "concept": "amd_IssuanceOfTreasuryStockToPartiallySettleDebt",
+                        "unit": "usd",
+                        "label": "Issuance of treasury stock to partially settle debt",
+                        "value": 0
+                    },
+                    {
+                        "concept": "us-gaap_RightOfUseAssetObtainedInExchangeForOperatingLeaseLiability",
+                        "unit": "usd",
+                        "label": "Right-of-Use Asset Obtained in Exchange for Operating Lease Liability",
+                        "value": 227000000
+                    }
+                ]
+            }
+        },
+        {
+            "accessNumber": "0001628280-21-001185",
+            "symbol": "AMD",
+            "cik": "2488",
+            "year": 2020,
+            "quarter": 0,
+            "form": "10-K",
+            "startDate": "2019-12-29 00:00:00",
+            "endDate": "2020-12-26 00:00:00",
+            "filedDate": "2021-01-29 00:00:00",
+            "acceptedDate": "2021-01-29 17:24:00",
+            "report": {
+                "bs": [
+                    {
+                        "concept": "us-gaap_CashAndCashEquivalentsAtCarryingValue",
+                        "unit": "usd",
+                        "label": "Cash and cash equivalents",
+                        "value": 1595000000.0
+                    },
+                    {
+                        "concept": "us-gaap_ShortTermInvestments",
+                        "unit": "usd",
+                        "label": "Short-term investments",
+                        "value": 695000000
+                    },
+                    {
+                        "concept": "us-gaap_AccountsReceivableNetCurrent",
+                        "unit": "usd",
+                        "label": "Accounts receivable, net",
+                        "value": 2066000000
+                    },
+                    {
+                        "concept": "us-gaap_InventoryNet",
+                        "unit": "usd",
+                        "label": "Inventories",
+                        "value": 1399000000.0
+                    },
+                    {
+                        "concept": "us-gaap_RelatedPartyTransactionDueFromToRelatedPartyCurrent",
+                        "unit": "usd",
+                        "label": "Receivables from related parties",
+                        "value": 10000000
+                    },
+                    {
+                        "concept": "us-gaap_PrepaidExpenseAndOtherAssetsCurrent",
+                        "unit": "usd",
+                        "label": "Prepaid expenses and other current assets",
+                        "value": 378000000
+                    },
+                    {
+                        "concept": "us-gaap_AssetsCurrent",
+                        "unit": "usd",
+                        "label": "Total current assets",
+                        "value": 6143000000
+                    },
+                    {
+                        "concept": "us-gaap_PropertyPlantAndEquipmentNet",
+                        "unit": "usd",
+                        "label": "Property and equipment, net",
+                        "value": 641000000.0
+                    },
+                    {
+                        "concept": "us-gaap_OperatingLeaseRightOfUseAsset",
+                        "unit": "usd",
+                        "label": "Operating lease right-of-use assets",
+                        "value": 208000000
+                    },
+                    {
+                        "concept": "us-gaap_Goodwill",
+                        "unit": "usd",
+                        "label": "Goodwill",
+                        "value": 289000000
+                    },
+                    {
+                        "concept": "us-gaap_EquityMethodInvestments",
+                        "unit": "usd",
+                        "label": "Investment: equity method",
+                        "value": 63000000
+                    },
+                    {
+                        "concept": "us-gaap_DeferredIncomeTaxAssetsNet",
+                        "unit": "usd",
+                        "label": "Deferred tax assets",
+                        "value": 1245000000.0
+                    },
+                    {
+                        "concept": "us-gaap_OtherAssetsNoncurrent",
+                        "unit": "usd",
+                        "label": "Other non-current assets",
+                        "value": 373000000.0
+                    },
+                    {
+                        "concept": "us-gaap_Assets",
+                        "unit": "usd",
+                        "label": "Total assets",
+                        "value": 8962000000
+                    },
+                    {
+                        "concept": "us-gaap_AccountsPayableCurrent",
+                        "unit": "usd",
+                        "label": "Accounts payable",
+                        "value": 468000000
+                    },
+                    {
+                        "concept": "us-gaap_AccountsPayableRelatedPartiesCurrent",
+                        "unit": "usd",
+                        "label": "Payables to related parties",
+                        "value": 78000000
+                    },
+                    {
+                        "concept": "us-gaap_AccruedLiabilitiesCurrent",
+                        "unit": "usd",
+                        "label": "Accrued liabilities",
+                        "value": 1796000000.0
+                    },
+                    {
+                        "concept": "us-gaap_OtherLiabilitiesCurrent",
+                        "unit": "usd",
+                        "label": "Other current liabilities",
+                        "value": 75000000
+                    },
+                    {
+                        "concept": "us-gaap_LiabilitiesCurrent",
+                        "unit": "usd",
+                        "label": "Total current liabilities",
+                        "value": 2417000000
+                    },
+                    {
+                        "concept": "us-gaap_LongTermDebtNoncurrent",
+                        "unit": "usd",
+                        "label": "Long-term debt, net",
+                        "value": 330000000
+                    },
+                    {
+                        "concept": "us-gaap_OperatingLeaseLiabilityNoncurrent",
+                        "unit": "usd",
+                        "label": "Long-term operating lease liabilities",
+                        "value": 201000000.0
+                    },
+                    {
+                        "concept": "us-gaap_OtherLiabilitiesNoncurrent",
+                        "unit": "usd",
+                        "label": "Other long-term liabilities",
+                        "value": 177000000
+                    },
+                    {
+                        "concept": "us-gaap_CommonStockValue",
+                        "unit": "usd",
+                        "label": "Common Stock, Value, Issued",
+                        "value": 12000000
+                    },
+                    {
+                        "concept": "us-gaap_AdditionalPaidInCapitalCommonStock",
+                        "unit": "usd",
+                        "label": "Additional paid-in capital",
+                        "value": 10544000000
+                    },
+                    {
+                        "concept": "us-gaap_TreasuryStockShares",
+                        "unit": "shares",
+                        "label": "Treasury stock (shares)",
+                        "value": 6000000
+                    },
+                    {
+                        "concept": "us-gaap_TreasuryStockValue",
+                        "unit": "usd",
+                        "label": "Treasury Stock, Value",
+                        "value": 131000000
+                    },
+                    {
+                        "concept": "us-gaap_RetainedEarningsAccumulatedDeficit",
+                        "unit": "usd",
+                        "label": "Accumulated deficit",
+                        "value": -4605000000
+                    },
+                    {
+                        "concept": "us-gaap_AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                        "unit": "usd",
+                        "label": "Accumulated other comprehensive income",
+                        "value": 17000000
+                    },
+                    {
+                        "concept": "us-gaap_StockholdersEquity",
+                        "unit": "usd",
+                        "label": "Total stockholders\u2019 equity",
+                        "value": 5837000000.0
+                    },
+                    {
+                        "concept": "us-gaap_LiabilitiesAndStockholdersEquity",
+                        "unit": "usd",
+                        "label": "Total liabilities and stockholders\u2019 equity",
+                        "value": 8962000000
+                    }
+                ],
+                "ic": [
+                    {
+                        "concept": "us-gaap_RevenueFromContractWithCustomerExcludingAssessedTax",
+                        "unit": "usd",
+                        "label": "Net revenue",
+                        "value": 9763000000.0
+                    },
+                    {
+                        "concept": "us-gaap_CostOfGoodsAndServicesSold",
+                        "unit": "usd",
+                        "label": "Cost of sales",
+                        "value": 5416000000
+                    },
+                    {
+                        "concept": "us-gaap_GrossProfit",
+                        "unit": "usd",
+                        "label": "Gross profit",
+                        "value": 4347000000
+                    },
+                    {
+                        "concept": "us-gaap_ResearchAndDevelopmentExpense",
+                        "unit": "usd",
+                        "label": "Research and development",
+                        "value": 1983000000
+                    },
+                    {
+                        "concept": "us-gaap_SellingGeneralAndAdministrativeExpense",
+                        "unit": "usd",
+                        "label": "Marketing, general and administrative",
+                        "value": 995000000
+                    },
+                    {
+                        "concept": "us-gaap_OperatingIncomeLoss",
+                        "unit": "usd",
+                        "label": "Operating income",
+                        "value": 1369000000.0
+                    },
+                    {
+                        "concept": "us-gaap_InterestExpense",
+                        "unit": "usd",
+                        "label": "Interest expense",
+                        "value": 47000000
+                    },
+                    {
+                        "concept": "us-gaap_OtherNonoperatingIncomeExpense",
+                        "unit": "usd",
+                        "label": "Other expense, net",
+                        "value": -47000000.0
+                    },
+                    {
+                        "concept": "us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                        "unit": "usd",
+                        "label": "Income before income taxes and equity income (loss)",
+                        "value": 1275000000
+                    },
+                    {
+                        "concept": "us-gaap_IncomeTaxExpenseBenefit",
+                        "unit": "usd",
+                        "label": "Income tax provision (benefit)",
+                        "value": -1210000000.0
+                    },
+                    {
+                        "concept": "us-gaap_IncomeLossFromEquityMethodInvestments",
+                        "unit": "usd",
+                        "label": "Equity income (loss) in investee",
+                        "value": 5000000
+                    },
+                    {
+                        "concept": "us-gaap_NetIncomeLoss",
+                        "unit": "usd",
+                        "label": "Net income",
+                        "value": 2490000000.0
+                    },
+                    {
+                        "concept": "us-gaap_EarningsPerShareBasic",
+                        "unit": "usd/share",
+                        "label": "Basic (in usd per share)",
+                        "value": 2.1
+                    },
+                    {
+                        "concept": "us-gaap_EarningsPerShareDiluted",
+                        "unit": "usd/share",
+                        "label": "Diluted (in usd per share)",
+                        "value": 2.06
+                    },
+                    {
+                        "concept": "us-gaap_WeightedAverageNumberOfSharesOutstandingBasic",
+                        "unit": "shares",
+                        "label": "Basic (in shares)",
+                        "value": 1184000000.0
+                    },
+                    {
+                        "concept": "us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding",
+                        "unit": "shares",
+                        "label": "Diluted (in shares)",
+                        "value": 1207000000.0
+                    },
+                    {
+                        "concept": "us-gaap_OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationAndTax",
+                        "unit": "usd",
+                        "label": "Net change in unrealized gains (losses) on cash flow hedges",
+                        "value": 17000000
+                    },
+                    {
+                        "concept": "us-gaap_ComprehensiveIncomeNetOfTax",
+                        "unit": "usd",
+                        "label": "Total comprehensive income",
+                        "value": 2507000000.0
+                    }
+                ],
+                "cf": [
+                    {
+                        "concept": "us-gaap_NetIncomeLoss",
+                        "unit": "usd",
+                        "label": "Net income",
+                        "value": 2490000000.0
+                    },
+                    {
+                        "concept": "us-gaap_OtherDepreciationAndAmortization",
+                        "unit": "usd",
+                        "label": "Depreciation and amortization",
+                        "value": 312000000
+                    },
+                    {
+                        "concept": "us-gaap_ShareBasedCompensation",
+                        "unit": "usd",
+                        "label": "Stock-based compensation",
+                        "value": 274000000
+                    },
+                    {
+                        "concept": "us-gaap_AmortizationOfFinancingCostsAndDiscounts",
+                        "unit": "usd",
+                        "label": "Amortization of debt discount and issuance costs",
+                        "value": 14000000
+                    },
+                    {
+                        "concept": "us-gaap_OperatingLeaseRightOfUseAssetAmortizationExpense",
+                        "unit": "usd",
+                        "label": "Amortization of operating lease right-of-use assets",
+                        "value": 42000000
+                    },
+                    {
+                        "concept": "us-gaap_GainsLossesOnExtinguishmentOfDebt",
+                        "unit": "usd",
+                        "label": "Loss on debt redemption, repurchase and conversion",
+                        "value": -54000000.0
+                    },
+                    {
+                        "concept": "us-gaap_GainLossOnSaleOfPropertyPlantEquipment",
+                        "unit": "usd",
+                        "label": "Loss on sale/disposal of property and equipment",
+                        "value": -33000000
+                    },
+                    {
+                        "concept": "us-gaap_AssetImpairmentCharges",
+                        "unit": "usd",
+                        "label": "Impairment of technology licenses",
+                        "value": 0
+                    },
+                    {
+                        "concept": "us-gaap_DeferredIncomeTaxesAndTaxCredits",
+                        "unit": "usd",
+                        "label": "Deferred income taxes",
+                        "value": -1223000000
+                    },
+                    {
+                        "concept": "us-gaap_OtherNoncashIncomeExpense",
+                        "unit": "usd",
+                        "label": "Other",
+                        "value": -6000000
+                    },
+                    {
+                        "concept": "us-gaap_IncreaseDecreaseInAccountsReceivable",
+                        "unit": "usd",
+                        "label": "Accounts receivable, net",
+                        "value": 219000000
+                    },
+                    {
+                        "concept": "us-gaap_IncreaseDecreaseInInventories",
+                        "unit": "usd",
+                        "label": "Inventories",
+                        "value": 417000000
+                    },
+                    {
+                        "concept": "amd_IncreaseDecreaseinPrepaymentsRelatedParties",
+                        "unit": "usd",
+                        "label": "Receivables from related parties",
+                        "value": -10000000
+                    },
+                    {
+                        "concept": "us-gaap_IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets",
+                        "unit": "usd",
+                        "label": "Prepaid expenses and other assets",
+                        "value": 231000000
+                    },
+                    {
+                        "concept": "us-gaap_IncreaseDecreaseInDueToRelatedParties",
+                        "unit": "usd",
+                        "label": "Payables to related parties",
+                        "value": -135000000
+                    },
+                    {
+                        "concept": "us-gaap_IncreaseDecreaseInAccountsPayable",
+                        "unit": "usd",
+                        "label": "Accounts payable",
+                        "value": -513000000
+                    },
+                    {
+                        "concept": "us-gaap_IncreaseDecreaseInAccruedLiabilitiesAndOtherOperatingLiabilities",
+                        "unit": "usd",
+                        "label": "Accrued liabilities and other",
+                        "value": 574000000
+                    },
+                    {
+                        "concept": "us-gaap_NetCashProvidedByUsedInOperatingActivities",
+                        "unit": "usd",
+                        "label": "Net cash provided by operating activities",
+                        "value": 1071000000
+                    },
+                    {
+                        "concept": "us-gaap_PaymentsToAcquirePropertyPlantAndEquipment",
+                        "unit": "usd",
+                        "label": "Purchases of property and equipment",
+                        "value": 294000000
+                    },
+                    {
+                        "concept": "us-gaap_PaymentsToAcquireShortTermInvestments",
+                        "unit": "usd",
+                        "label": "Payments to Acquire Short-term Investments",
+                        "value": 850000000
+                    },
+                    {
+                        "concept": "us-gaap_ProceedsFromSaleMaturityAndCollectionOfShorttermInvestments",
+                        "unit": "usd",
+                        "label": "Proceeds from maturity of short-term investments",
+                        "value": 192000000
+                    },
+                    {
+                        "concept": "us-gaap_ProceedsFromSaleAndCollectionOfReceivables",
+                        "unit": "usd",
+                        "label": "Collection of deferred proceeds on sale of receivables",
+                        "value": 0
+                    },
+                    {
+                        "concept": "us-gaap_PaymentsForProceedsFromOtherInvestingActivities",
+                        "unit": "usd",
+                        "label": "Other",
+                        "value": 0
+                    },
+                    {
+                        "concept": "us-gaap_NetCashProvidedByUsedInInvestingActivities",
+                        "unit": "usd",
+                        "label": "Net cash used in investing activities",
+                        "value": -952000000
+                    },
+                    {
+                        "concept": "us-gaap_ProceedsFromShortTermDebt",
+                        "unit": "usd",
+                        "label": "Proceeds from short-term borrowings",
+                        "value": 200000000
+                    },
+                    {
+                        "concept": "us-gaap_RepaymentsOfDebt",
+                        "unit": "usd",
+                        "label": "Repayments and extinguishment of debt",
+                        "value": 200000000
+                    },
+                    {
+                        "concept": "us-gaap_ProceedsFromWarrantExercises",
+                        "unit": "usd",
+                        "label": "Proceeds from Warrant Exercises",
+                        "value": 0
+                    },
+                    {
+                        "concept": "us-gaap_ProceedsFromIssuanceOfSharesUnderIncentiveAndShareBasedCompensationPlansIncludingStockOptions",
+                        "unit": "usd",
+                        "label": "Proceeds from sales of common stock through employee equity plans",
+                        "value": 85000000
+                    },
+                    {
+                        "concept": "us-gaap_PaymentsRelatedToTaxWithholdingForShareBasedCompensation",
+                        "unit": "usd",
+                        "label": "Payment, Tax Withholding, Share-based Payment Arrangement",
+                        "value": 78000000
+                    },
+                    {
+                        "concept": "us-gaap_ProceedsFromPaymentsForOtherFinancingActivities",
+                        "unit": "usd",
+                        "label": "Other",
+                        "value": -1000000
+                    },
+                    {
+                        "concept": "us-gaap_NetCashProvidedByUsedInFinancingActivities",
+                        "unit": "usd",
+                        "label": "Net cash provided by financing activities",
+                        "value": 6000000
+                    },
+                    {
+                        "concept": "us-gaap_CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                        "unit": "usd",
+                        "label": "Net increase (decrease) in cash and cash equivalents, and restricted cash",
+                        "value": 125000000
+                    },
+                    {
+                        "concept": "us-gaap_InterestPaidNet",
+                        "unit": "usd",
+                        "label": "Interest",
+                        "value": 31000000
+                    },
+                    {
+                        "concept": "us-gaap_IncomeTaxesPaidNet",
+                        "unit": "usd",
+                        "label": "Income taxes, net of refund",
+                        "value": 8000000
+                    },
+                    {
+                        "concept": "us-gaap_CapitalExpendituresIncurredButNotYetPaid",
+                        "unit": "usd",
+                        "label": "Purchases of property and equipment, accrued but not paid",
+                        "value": 31000000
+                    },
+                    {
+                        "concept": "us-gaap_StockIssuedDuringPeriodValueConversionOfConvertibleSecuritiesNetOfAdjustments",
+                        "unit": "usd",
+                        "label": "Issuance of common stock to settle convertible debt",
+                        "value": 217000000
+                    },
+                    {
+                        "concept": "us-gaap_NoncashOrPartNoncashAcquisitionFixedAssetsAcquired1",
+                        "unit": "usd",
+                        "label": "Transfer of assets for the acquisition of property and equipment",
+                        "value": 111000000
+                    },
+                    {
+                        "concept": "amd_IssuanceOfTreasuryStockToPartiallySettleDebt",
+                        "unit": "usd",
+                        "label": "Issuance of treasury stock to partially settle debt",
+                        "value": 0
+                    },
+                    {
+                        "concept": "amd_DeferredProceedsOnSaleOfReceivable",
+                        "unit": "usd",
+                        "label": "Deferred proceeds on sale of receivable",
+                        "value": 0
+                    },
+                    {
+                        "concept": "us-gaap_RightOfUseAssetObtainedInExchangeForOperatingLeaseLiability",
+                        "unit": "usd",
+                        "label": "Right-of-Use Asset Obtained in Exchange for Operating Lease Liability",
+                        "value": 45000000
+                    }
+                ]
+            }
+        }
+    ],
+    "symbol": "AMD"
+}
