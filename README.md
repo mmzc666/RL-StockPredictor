@@ -31,8 +31,8 @@
    - <mcfile name="rl_stock_predictor_inference.py" path="/Users/apple/PycharmProjects/Stock/rl_stock_predictor_inference.py"></mcfile>：用于模型推理的脚本
 
 4. **数据存储**：
-   - 原始数据存储在相应目录（<mcfolder name="stock_data/" path="/Users/apple/PycharmProjects/Stock/stock_data/"></mcfolder>、<mcfolder name="financial_data/" path="/Users/apple/PycharmProjects/Stock/financial_data/"></mcfolder>、<mcfolder name="sentiment_news_data/" path="/Users/apple/PycharmProjects/Stock/sentiment_news_data/"></mcfolder>）
-   - 处理后的数据存储在对应目录（<mcfolder name="processed_financial_data/" path="/Users/apple/PycharmProjects/Stock/processed_financial_data/"></mcfolder>、<mcfolder name="analyzed_sentiment_results/" path="/Users/apple/PycharmProjects/Stock/analyzed_sentiment_results/"></mcfolder>）
+   - 原始数据存储在相应目录<mcfolder name="stock_data/" path="/Users/apple/PycharmProjects/Stock/stock_data/"></mcfolder><mcfolder name="financial_data/" path="/Users/apple/PycharmProjects/Stock/financial_data/"></mcfolder>、<mcfolder name="sentiment_news_data/" path="/Users/apple/PycharmProjects/Stock/sentiment_news_data/"></mcfolder>
+   - 处理后的数据存储在对应目录<mcfolder name="processed_financial_data/" path="/Users/apple/PycharmProjects/Stock/processed_financial_data/"></mcfolder><mcfolder name="analyzed_sentiment_results/" path="/Users/apple/PycharmProjects/Stock/analyzed_sentiment_results/"></mcfolder>
    - 预测结果存储在<mcfolder name="predictions_v2/" path="/Users/apple/PycharmProjects/Stock/predictions_v2/"></mcfolder>目录
    - 训练好的模型存储在<mcfolder name="trained_rl_models_v2/" path="/Users/apple/PycharmProjects/Stock/trained_rl_models_v2/"></mcfolder>目录
 
